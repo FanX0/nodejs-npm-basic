@@ -15,5 +15,11 @@
   },
   "author": "Farid Azhari Nurcahyo",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "moment": "^2.30.1"
+  }
 }
